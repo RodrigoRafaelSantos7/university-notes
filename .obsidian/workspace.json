@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "dee13469ad3f968f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ba1062698a0250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "366897d29735b3ed",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "SD/Week 1.md",
+                "bFile": "SD/Week 1.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Week 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44c9e06ada5fd56c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d93a81a8939393fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69d430c0f34de2bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19b5c89b89238244",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd5ecde00f16dca7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b4490d5e6be0404",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d69244b5ad24c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8215001e2d5af29d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ADA/Erros Comuns nos Trabalhos de ADA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Erros Comuns nos Trabalhos de ADA"
+            }
+          },
+          {
+            "id": "faa103235d33cc3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ADA/Erros Comuns nos Trabalhos de ADA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Erros Comuns nos Trabalhos de ADA"
+            }
+          },
+          {
+            "id": "2ec7a2cc88af95e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de91c5fd54119acd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ADA/Erros Comuns nos Trabalhos de ADA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Erros Comuns nos Trabalhos de ADA"
+            }
+          },
+          {
+            "id": "5e986cfd421cc6b8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "366897d29735b3ed",
+  "lastOpenFiles": [
+    "SD/Week 1.md",
+    "ADA/Erros Comuns nos Trabalhos de ADA.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-04-17 11.32.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-17 11.29.05.excalidraw.md",
+    "Excalidraw",
+    "Welcome.md",
+    "SD",
+    "ADA"
+  ]
+}
