@@ -11,15 +11,14 @@
             "id": "366897d29735b3ed",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "SD/Week 1.md",
-                "bFile": "SD/Week 1.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "SD/Week 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Week 1"
+              "icon": "lucide-file",
+              "title": "Week 1"
             }
           }
         ]
@@ -183,9 +182,10 @@
   },
   "active": "366897d29735b3ed",
   "lastOpenFiles": [
+    "SD/Container.md",
     "SD/Week 1.md",
-    "ADA/Erros Comuns nos Trabalhos de ADA.md",
     "Untitled.md",
+    "ADA/Erros Comuns nos Trabalhos de ADA.md",
     "Excalidraw/Drawing 2025-04-17 11.32.45.excalidraw.md",
     "Excalidraw/Drawing 2025-04-17 11.29.05.excalidraw.md",
     "Excalidraw",
